@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import sys
+sys.stdout.reconfigure(errors='replace')
 """
 抖音视频下载器 v2.0 - 使用iPhone UA获取重定向，绕过JS反爬验证
 
